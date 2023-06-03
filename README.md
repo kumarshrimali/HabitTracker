@@ -1,6 +1,10 @@
 # HabitTracker
 Habit Tracker App with python for IU onboarding course.
-The program provided is a Habit Tracker App that allows users to track and manage their habits. Here is an explanation of its working:
+The program provided is a Habit Tracker App that allows users to track and manage their habits. 
+1.created with python39
+2.database with sqlite3
+
+Here is an explanation of its working:
 
     The program begins by defining a class called Habits which serves as the main component of the app. It contains various methods for creating, editing, deleting, and analyzing habits.
 
